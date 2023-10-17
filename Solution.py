@@ -20,7 +20,7 @@ from transformers import BertTokenizer, BertModel
 
 
 
-#  Reading the Data from CSV file to Data Frame
+#  Reading the Data from CSV file to Data Frame 
 df= pd.read_csv("Precily_Text_Similarity.csv")
 df.head()
 
